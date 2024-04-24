@@ -1,3 +1,3 @@
 # proje(mezuniyet)
 ## konu
-iklim değişikliğni önleyebilecek bir çözüm (bulamadım)
+<iklim değişikliğni önleyebilecek bir çözüm (websitesi)
